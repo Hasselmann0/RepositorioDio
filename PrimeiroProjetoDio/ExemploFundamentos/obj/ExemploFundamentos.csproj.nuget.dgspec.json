@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hasselmann\\Documents\\DEV\\ProjetosDio\\RepositorioDio\\PrimeiroProjetoDio\\PrimeiroProjetoDio.csproj": {}
+    "C:\\Users\\Hasselmann\\Documents\\DEV\\ProjetosDio\\RepositorioDio\\PrimeiroProjetoDio\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hasselmann\\Documents\\DEV\\ProjetosDio\\RepositorioDio\\PrimeiroProjetoDio\\PrimeiroProjetoDio.csproj": {
+    "C:\\Users\\Hasselmann\\Documents\\DEV\\ProjetosDio\\RepositorioDio\\PrimeiroProjetoDio\\ExemploFundamentos\\ExemploFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hasselmann\\Documents\\DEV\\ProjetosDio\\RepositorioDio\\PrimeiroProjetoDio\\PrimeiroProjetoDio.csproj",
-        "projectName": "PrimeiroProjetoDio",
-        "projectPath": "C:\\Users\\Hasselmann\\Documents\\DEV\\ProjetosDio\\RepositorioDio\\PrimeiroProjetoDio\\PrimeiroProjetoDio.csproj",
+        "projectUniqueName": "C:\\Users\\Hasselmann\\Documents\\DEV\\ProjetosDio\\RepositorioDio\\PrimeiroProjetoDio\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectName": "ExemploFundamentos",
+        "projectPath": "C:\\Users\\Hasselmann\\Documents\\DEV\\ProjetosDio\\RepositorioDio\\PrimeiroProjetoDio\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "packagesPath": "C:\\Users\\Hasselmann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hasselmann\\Documents\\DEV\\ProjetosDio\\RepositorioDio\\PrimeiroProjetoDio\\obj\\",
+        "outputPath": "C:\\Users\\Hasselmann\\Documents\\DEV\\ProjetosDio\\RepositorioDio\\PrimeiroProjetoDio\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
