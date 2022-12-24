@@ -1,0 +1,15 @@
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\bin\Debug\net6.0\DesafioCodeBasicoPart2.exe
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\bin\Debug\net6.0\DesafioCodeBasicoPart2.deps.json
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\bin\Debug\net6.0\DesafioCodeBasicoPart2.runtimeconfig.json
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\bin\Debug\net6.0\DesafioCodeBasicoPart2.dll
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\bin\Debug\net6.0\DesafioCodeBasicoPart2.pdb
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\obj\Debug\net6.0\DesafioCodeBasicoPart2.csproj.AssemblyReference.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\obj\Debug\net6.0\DesafioCodeBasicoPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\obj\Debug\net6.0\DesafioCodeBasicoPart2.AssemblyInfoInputs.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\obj\Debug\net6.0\DesafioCodeBasicoPart2.AssemblyInfo.cs
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\obj\Debug\net6.0\DesafioCodeBasicoPart2.csproj.CoreCompileInputs.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\obj\Debug\net6.0\DesafioCodeBasicoPart2.dll
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\obj\Debug\net6.0\refint\DesafioCodeBasicoPart2.dll
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\obj\Debug\net6.0\DesafioCodeBasicoPart2.pdb
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\obj\Debug\net6.0\DesafioCodeBasicoPart2.genruntimeconfig.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasicoPart2\obj\Debug\net6.0\ref\DesafioCodeBasicoPart2.dll

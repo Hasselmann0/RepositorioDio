@@ -1,5 +1,7 @@
-- ### Classe  
+- ### Sintaxe
 
+  É um conjunto de regras para 
+  
   E um molde;
   
     

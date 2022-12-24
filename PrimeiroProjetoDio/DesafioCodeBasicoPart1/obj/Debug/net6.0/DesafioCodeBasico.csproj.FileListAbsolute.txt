@@ -1,0 +1,5 @@
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasico\obj\Debug\net6.0\DesafioCodeBasico.csproj.AssemblyReference.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasico\obj\Debug\net6.0\DesafioCodeBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasico\obj\Debug\net6.0\DesafioCodeBasico.AssemblyInfoInputs.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasico\obj\Debug\net6.0\DesafioCodeBasico.AssemblyInfo.cs
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\DesafioCodeBasico\obj\Debug\net6.0\DesafioCodeBasico.csproj.CoreCompileInputs.cache

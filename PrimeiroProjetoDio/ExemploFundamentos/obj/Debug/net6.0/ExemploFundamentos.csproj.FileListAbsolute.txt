@@ -13,3 +13,6 @@ C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\
 C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.pdb
 C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.genruntimeconfig.cache
 C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\ExemploFundamentos\obj\Debug\net6.0\ref\ExemploFundamentos.dll
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.Common.dll
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.Common.pdb
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\RepositorioDio\PrimeiroProjetoDio\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CopyComplete
